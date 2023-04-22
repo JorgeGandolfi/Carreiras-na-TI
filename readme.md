@@ -57,3 +57,19 @@
   </a>
 
 </p> 
+
+
+ <h3 align="center">
+  <samp>&gt;
+    Quem já colaborou com este repositório?
+   </samp>
+</h3>
+
+<p align="center">
+  
+  <a href="https://github.com/WesleyUlisses" alt="GitHub">
+    <img src="https://user-images.githubusercontent.com/90068576/233788580-598269dd-ae94-4f18-84c7-91a8bf40dd29.png" alt="descrição da imagem" width="100" style="border-radius:5%" />
+
+  </a>
+
+ 
