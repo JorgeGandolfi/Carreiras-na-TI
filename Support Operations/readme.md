@@ -3,32 +3,73 @@
         </samp>
 </h1>
 <h3 align= "center">
-  Support Operations🦸
+  Wesley Ulisses - Support Operations🦸
 </h3>
 </br>
-
-<div style="border: 1px solid white; padding: 5px;" align="center ">
-  <img src="https://user-images.githubusercontent.com/90068576/233786228-65404093-281f-4bab-abfc-034d6ff8061c.gif" alt="SimYesGIF" align="center" width="100" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/90068576/233789554-ba7bf397-5f3d-4cf4-b0e8-3262ed2a4309.gif" alt="SimYesGIF" width="150" />
+  <img src="https://user-images.githubusercontent.com/90068576/233789559-656b2a80-5e96-4e84-b2b0-b825a687a862.gif" alt="SimYesGIF" width="150" />
 </div>
+
+
 <h5>
   <samp>&gt;
-    Caso você tenha chegado por agora na área de TI, talvez você considere que nós da TI somos todos um time só...
-    Mas, não é assim que a banda toca rsrs, temos milhares e milhares de carreiras que podem compor a área de TI, 
-    como por exemplo a carreira como desenvolvedor, que por si só já trás varias ramificações e vai por mim, são muitas mesmo.
-    Dentro desse ramo podemos ser devs front end, back end, full stack, podemos ter expecificos como, web, mobile, desktop, games e muitos outros.
-    Vêja que falei apenas de algumas possibilidades como desenvolvedor, dentro da mesma existem diversas outras, logo percebe-se que pode surgir muita dúvida,
-    tanto para quem já começou quanto para que está comessando agora.
+        Bora lá!
+        Nós na maior parte do tempo somos responsáveis pelo monitoramento contínuo dos serviços de TI, identificando e solucionando proativamente 
+        os problemas antes que eles 
+        afetem os usuários finais. Ou seja, zelamos por manter os serviços de TI em execução de forma eficiente e eficaz, garantindo que os 
+        usuários finais tenham acesso aos serviços de que precisam para realizar suas tarefas de maneira eficaz.
     </samp>
 </h5>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/90068576/233790495-b6386e73-2d1f-4d72-aa63-dff9659c81ea.gif" alt="SimYesGIF" width="150" />
+</div>
 
-Support Operations (Operações de Suporte) é um termo geral que se refere às atividades necessárias para manter os serviços de TI em execução de forma eficiente e eficaz. 
-Essas atividades incluem a gestão de incidentes, problemas, mudanças, configurações e disponibilidade de serviços, bem como a gestão de fornecedores e a coordenação de 
-equipes técnicas.
+<h5>
+  <samp>&gt;
+        Pense que você trabalha em um banco... diversos problemas podem ocorrer nesse ambiente, hackers tentando invadir e conseguir dinheiro, sua aplicação do pix             pode falhar e você perder muito dinheiro, ou então seu aplicativo do banco não faz mais transações... imagine o caos, nós que monitoramos tudo para tudo               funcione da melhor forma possivel, prevendo incidentes, e antecipando para que problemas gerados não afetem o usuario final, o que nesse caso seriam o usuario         não conseguir fazer um pagamento, demoras no aplicativo e até mesmo vazamento de dados. 
+        Em resumo, somos os herois da vizinhaça!
+    </samp>
+</h5> 
 
-O Support Operations também pode ser responsável pelo monitoramento contínuo dos serviços de TI, identificando e solucionando proativamente os problemas antes que eles 
-afetem os usuários finais. Eles podem ser responsáveis por garantir que os sistemas de TI estejam disponíveis para uso pelos usuários finais, minimizando o tempo de 
-inatividade e trabalhando para melhorar a experiência do usuário.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/90068576/233790655-b05199f9-1f3c-41e3-94cf-f429ce350627.gif" alt="SimYesGIF" width="150" />
+</div>
 
-Em resumo, Support Operations é responsável por manter os serviços de TI em execução de forma eficiente e eficaz, garantindo que os usuários finais tenham acesso aos 
-serviços de que precisam para realizar suas tarefas de maneira eficaz.
+<h3 align="center">
+  <samp>&gt;      
+        Algumas de nossas atividades do dia dia são exemplo: 
+   </samp>
+</h3>
+ 
+<samp align="center">
+  <ul>
+    <li>&gt; gestão de incidentes</li>
+    <li>&gt; resolução de problemas de infra</li>
+    <li>&gt; mudanças de ambientes das aplicações</li>
+    <li>&gt; configurações e disponibilidade de serviços e muito mais...</li>
+  </ul>
+<p> &gt; Somos importantes demais para que você tenha uma aplicação rodando bonitinha ao seu dispor✌️😁.</p>
+</samp>
+
+
+
+<h3 align="center">
+  <samp>&gt;      
+        Minhas outras redes: 
+   </samp>
+</h3>
+ 
+<p align="center">
+  
+  <a href="mailto:wesleyulisses0@gmail.com" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" />
+  </a>
+
+
+  <a href="https://www.linkedin.com/in/wesleyulisses" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/wesleyulisses"" />
+  </a>
+
+</p> 
